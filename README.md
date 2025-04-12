@@ -6,7 +6,7 @@
 
 📫 **Contact Me:**  
 📧 andreeiki2003@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/andré-eiki-hiratsuka-36401a32b) | [GitHub](https://github.com/AndreHiratsuka)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andré-eiki-hiratsuka/) | [GitHub](https://github.com/AndreHiratsuka)  
 
 ---
 
