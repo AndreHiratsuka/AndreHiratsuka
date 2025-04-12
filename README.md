@@ -1,7 +1,7 @@
 # 👋 Hi, I'm André Eiki Hiratsuka!
 
 🎓 Computer Science student at **UNIFESP**  
-🚀 Passionate about **Artificial Intelligence, Web Development, and Distributed Systems**  
+🚀 Passionate about **Data Science, Artificial Intelligence, Web Development, and Distributed Systems**  
 💡 Always learning new technologies and contributing to open-source projects  
 
 📫 **Contact Me:**  
